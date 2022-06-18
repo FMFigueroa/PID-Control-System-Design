@@ -1,6 +1,6 @@
 ## PID Control System Design and Automatic Tuning using MATLAB/Simulink
 
-### 1- Basics of PID Control
+### 1- [Basics of PID Control](https://github.com/FMFigueroa/PID-Control-System-Design/tree/main/1%20Basics%20of%20PID%20Control)
 
 ### 2- Closed-loop Performance and Stability
 
